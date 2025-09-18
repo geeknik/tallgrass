@@ -29,7 +29,7 @@ Tallgrass is a research-grade implementation of an anonymity overlay network tha
 - [ ] **Probabilistic Path Selection**: Non-deterministic circuit construction
 - [ ] **Circuit Expiration**: Non-deterministic circuit lifetime management
 
-Next: Complete Phase 2, then Phase 4 - Advanced Features (hidden services, endpoint behavior)
+Next: Complete Phase 2, then Phase 3/4 - Advanced Features (hidden services, endpoint behavior)
 
 ## Quick Start
 
